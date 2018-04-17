@@ -1,0 +1,5 @@
+Base Case:
+
+N = 100   # Number of pairs
+p = 0.02  # Probability of a match
+L = 5     # Max. no of pairs in a cycle
